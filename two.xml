@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<organization>
+    <e:department xmlns:e="https://www.google.com/employees">
+        <e:name>Yazdan</e:name>
+        <e:age>23</e:age>
+        <e:designation>Devloper</e:designation>
+        <e:salary>20,000</e:salary>
+    </e:department>
+
+
+    <s:department xmlns:s="https://www.google.com/staff">
+        <s:name>Fahad</s:name>
+        <s:age>20</s:age>
+        <s:designation>Cleaning</s:designation>
+        <s:salary>10,000</s:salary>
+    </s:department>
+
+
+    <w:department xmlns:w="https://www.google.com/workers">
+        <w:name>Hamza</w:name>
+        <w:age>25</w:age>
+        <w:designation>Backend Devloper</w:designation>
+        <w:salary>40,000</w:salary>
+    </w:department>
+    
+</organization>

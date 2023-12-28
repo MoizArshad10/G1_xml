@@ -7,7 +7,7 @@
     </fooditem>
 
     <fooditem type="Pakistani">
-        <name>Biryani</name>
+        <name>&quot;Biryani&quot;</name>
         <cost>$7</cost>
     </fooditem>
 
