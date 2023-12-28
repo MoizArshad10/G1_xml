@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-
 <foodlist>
     <fooditem type="Italian">
         <name>Pizza</name>
-        <cost>$10</cost>
+        <cost>$8</cost>
+    </fooditem>
+
+    <fooditem type="Pakistani">
+        <name>Biryani</name>
+        <cost>$7</cost>
     </fooditem>
 
 
     <fooditem type="American">
-        <name> &quot; Steak &quot;</name>
-        <cost>$15</cost>
-    </fooditem>
-
-
-    <fooditem type="China">
-        <name> &gt;Chinese&gt;</name>
+        <name>Steak</name>
         <cost>$12</cost>
     </fooditem>
 
 
-    <fooditem type="Pakistani">
-        <name>Biryani</name>
-        <cost>$8</cost>
+    <fooditem type="Chinese">
+        <name>Chinese</name>
+        <cost>$10</cost>
     </fooditem>
 </foodlist>
