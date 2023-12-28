@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<records xmlns:e="https://www.google.com/employees"  xmlns:s="https://www.google.com/staff"  xmlns:w="https://www.google.com/worker">
+    <e:record>
+        <e:name>Max</e:name>
+        <e:age>12</e:age>
+        <e:city>Texas</e:city>
+
+    </e:record>
+
+
+    <s:record>
+        <s:name>Smith</s:name>
+        <s:age>15</s:age>
+        <s:city>karachi</s:city>
+        
+    </s:record>
+
+    <w:record>
+        <w:name>Spider</w:name>
+        <w:age>15</w:age>
+        <w:city>Lahore</w:city>
+        
+    </w:record>
+
+
+</records>
