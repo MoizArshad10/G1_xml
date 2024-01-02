@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="two.xsl" type="text/xsl"?>
+<organization>
+    <department>
+        <name>Haseeb</name>
+        <age>18</age>
+        <salary>20000</salary>
+        <number>7896541</number>
+    </department>
+
+    <department>
+        <name>Yazdan</name>
+        <age>18</age>
+        <salary>30000</salary>
+        <number>7841965</number>
+    </department>
+
+    <department>
+        <name>Haroon</name>
+        <age>28</age>
+        <salary>40000</salary>
+        <number>76541</number>
+    </department>
+
+    <department>
+        <name>Ramish</name>
+        <age>38</age>
+        <salary>25000</salary>
+        <number>7895417</number>
+    </department>
+</organization>
